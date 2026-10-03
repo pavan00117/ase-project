@@ -1,0 +1,8 @@
+{
+  "name": "EcoWatch – Pollution Reporting & Monitoring",
+  "description": "Comprehensive environmental pollution reporting, real-time hotspot monitoring, AI analysis, and authority resolution platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
